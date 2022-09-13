@@ -28,7 +28,7 @@ public class JavaApplication1 {
     {
         // TODO code application logic here
         JFrame frame = new JFrame();
-        frame.setTitle("Weight Converter Application");
+        frame.setTitle("Length Converter Application");
         frame.setSize(500,400);
         JPanel panel = new JPanel();
         frame.add(panel);
